@@ -25,7 +25,7 @@ const App = () => {
         disableDotsControls
         mouseTracking
         infinite
-        //this respomsive can be achieve by css
+        //this responsive can be achieve by css
         responsive={{
           0: { items: 1 },
           576: { items: 1 },
